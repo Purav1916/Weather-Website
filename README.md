@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+# 🌦️ Weather Website
 
 ## Description  
 This project is a weather application built using React that allows users to search for the current weather in any city. The app takes user input and fetches real-time weather data from a public API, displaying information such as temperature, weather conditions, and location details. I built this project to practice working with APIs and handling user input in a React application.  
